@@ -1,6 +1,3 @@
-# CCNChatBot
-Chatbot de CCN
-
 # CCN NPL ChatBot: 
 
 NPL ChatBot: Cerveceria Nicaraguence (Promociones, comunicacion continua & atención al cliente)
