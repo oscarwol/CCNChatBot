@@ -28,7 +28,7 @@ from telegram.ext import (
 )
 import requests
 
-updater = Updater("5210319709:AAHB16I94ULHIaOsQNhOaanYLuu5-JDPonc")
+updater = Updater("TOKENHERE")
 reply_keyboard = [["stickers", "fondos"], ["musica", "promociones"]]
 promo_keyboard = [["1", "2"], ["3", "4"]]
 
@@ -234,7 +234,7 @@ def datosIngresados(update, context):
             Envio de Email:
             """
             correo_user = 'support@wolvisor.com'
-            password = 'lmceoebvcleisjdx'
+            password = 'contradebeiraca'
             subject = 'Cerveza Tona: Tu codigo promocional'
             
             body =  '\nHola: {}! Estos son tus datos registrados en nuestro sistema:\nCUI: {}\nCorreo Electronico: {}\nCodigo: {}'.format(
